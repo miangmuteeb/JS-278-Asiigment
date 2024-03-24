@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(243, 237, 229);
+}
+header, footer{
+    background-color:#005f73;
+}
+main{
+    min-height: calc(100vh - 120px);
+}
+.left{
+    text-align: left;
+}
